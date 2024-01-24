@@ -1,4 +1,4 @@
-# First_Node_API
+# Sentiment-Analysis-API
 1.Clone the .env.example file and create the .env file.
 
 2.Execute the command: ```docker compose up -d```
